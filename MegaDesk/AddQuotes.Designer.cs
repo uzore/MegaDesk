@@ -148,7 +148,8 @@
             this.RushBox.Items.AddRange(new object[] {
             "3",
             "5",
-            "7"});
+            "7",
+            "14"});
             this.RushBox.Location = new System.Drawing.Point(484, 307);
             this.RushBox.MaxDropDownItems = 10;
             this.RushBox.Name = "RushBox";
